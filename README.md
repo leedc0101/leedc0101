@@ -1,9 +1,4 @@
 
-
-**leedc0101/leedc0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Developing dex on ethereum & solana network
 - 🌱 I’m currently learning ... JavaScript, React, Blockchain(web3, solidity, solana), Rust
 - 🤔 I’m looking for help with ... Solana network
