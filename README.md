@@ -1,6 +1,6 @@
 
-- 🔭 I’m currently working on ... Developing dex on ethereum & solana network
-- 🌱 I’m currently learning ... JavaScript, React, Blockchain(web3, solidity, solana), Rust
+- 🔭 I’m currently working on ... Developing Dex on Ethereum & Solana network
+- 🌱 I’m currently learning ... JavaScript, React, Web3, Solidity, Rust
 - 🤔 I’m looking for help with ... Solana, Rust
 - 📫 How to reach me: leedc0101@gmail.com
 
