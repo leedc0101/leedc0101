@@ -3,3 +3,4 @@
 - Learning ... JavaScript, React, Web3, Solidity, Rust
 - Struggling ... Solana, Rust
 - Contact ... leedc0101@naver.com
+- Velog ... https://velog.io/@leedc0101
